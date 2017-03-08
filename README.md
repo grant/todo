@@ -11,3 +11,4 @@
 - [ ] BUILD AN APP
 - [ ] web dev in assembly
 - [ ] Work out?
+- [ ] AprilZero (fitbit, weight, github, runkeeper, facebook, rescuetime)
