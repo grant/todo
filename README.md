@@ -2,6 +2,7 @@
 > My public TODO and project idea list. Also see [ideas](https://github.com/grant/ideas)
 
 - [ ] Update bios
+- [ ] TrumpDraws
 - [ ] [Clock Animation](https://github.com/grant/a-moment)
 - [ ] [School of Tech](https://github.com/grant/school-of-tech)
 - [ ] Blog (faster, leadership talks)
