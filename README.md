@@ -1,6 +1,9 @@
 # todo
 > My public TODO and project idea list. Also see [ideas](https://github.com/grant/ideas)
 
+This list is in order of what I should be prioritizing
+
+- [ ] battleship
 - [ ] Update bios
 - [ ] TrumpDraws
 - [ ] [Clock Animation](https://github.com/grant/a-moment)
