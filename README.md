@@ -16,4 +16,5 @@ This list is in order of what I should be prioritizing
 - [ ] BUILD AN APP
 - [ ] web dev in assembly
 - [ ] Work out?
-- [ ] AprilZero (fitbit, misfit, weight, github, runkeeper, facebook, rescuetime)
+- [ ] Learn Serverless https://github.com/99xt/serverless-react-boilerplate
+- [ ] AprilZero (fitbit, misfit, weight, github, runkeeper, facebook, rescuetime, calendar)
