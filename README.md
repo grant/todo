@@ -8,7 +8,7 @@ This list is in order of what I should be prioritizing
 - [ ] TrumpDraws
 - [ ] [Clock Animation](https://github.com/grant/a-moment)
 - [ ] [School of Tech](https://github.com/grant/school-of-tech)
-- [ ] Blog (faster, leadership talks)
+- [ ] Blog (faster, [bay area jobs](https://docs.google.com/spreadsheets/d/1raHf-nmU1k1M5EcYgxTrJVPOn7YPVci7fgYUq2Q8CSU/edit#gid=0), leadership talks)
 - [ ] block (github.com/block)
 - [ ] Track health
 - [ ] [Sharkhacks](https://github.com/grant/sharkhacks5000)
