@@ -4,6 +4,11 @@
 This list is in order of what I should be prioritizing
 
 - [ ] battleship
+  - Medium Essay (https://medium.com/p/35a03863056f/edit)
+  - https://github.com/grant/battleship-web
+  - https://play.google.com/store/apps/details?id=de.smuttlewerk.fleetbattle&hl=en
+  - https://github.com/kortaggio/battleboat
+  - https://kortaggio.github.io/battleboat/
 - [ ] Update bios
 - [ ] TrumpDraws
 - [ ] [Clock Animation](https://github.com/grant/a-moment)
