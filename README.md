@@ -9,6 +9,7 @@ This list is in order of what I should be prioritizing
 - [ ] [Clock Animation](https://github.com/grant/a-moment)
 - [ ] [School of Tech](https://github.com/grant/school-of-tech)
 - [ ] Blog (faster, leadership talks)
+- [ ] block (github.com/block)
 - [ ] Track health
 - [ ] [Sharkhacks](https://github.com/grant/sharkhacks5000)
 - [ ] web dev in assembly
