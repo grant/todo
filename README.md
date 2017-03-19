@@ -4,6 +4,7 @@
 This list is in order of what I should be prioritizing
 
 - [ ] battleship
+- [ ] Post https://github.com/grant/dinner
   - Medium Essay (https://medium.com/p/35a03863056f/edit)
   - https://github.com/grant/battleship-web
   - https://play.google.com/store/apps/details?id=de.smuttlewerk.fleetbattle&hl=en
