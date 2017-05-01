@@ -9,7 +9,6 @@ This list is in order of what I should be prioritizing
   - https://play.google.com/store/apps/details?id=de.smuttlewerk.fleetbattle&hl=en
   - https://github.com/kortaggio/battleboat
   - https://kortaggio.github.io/battleboat/
-- [ ] Update bios
 - [ ] TrumpDraws
 - [ ] [Clock Animation](https://github.com/grant/a-moment)
 - [ ] [School of Tech](https://github.com/grant/school-of-tech)
