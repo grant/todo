@@ -3,6 +3,7 @@
 
 This list is in order of what I should be prioritizing
 
+- [ ] grant.kitchen github recipes see cinc.kitchen
 - [ ] battleship
   - Medium Essay (https://medium.com/p/35a03863056f/edit)
   - https://github.com/grant/battleship-web
